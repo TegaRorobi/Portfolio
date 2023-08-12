@@ -1,0 +1,4 @@
+.env
+logs/
+main/__pycache__/
+portfolio/__pycache__/
